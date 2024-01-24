@@ -16,6 +16,3 @@ The game ends if the player makes a wrong attempt.
 There are two buttons "Start Game" and "Restart".
 The player click "Start Game" button to start the game.
 The player click "Restart" button to return back the original position of the letters.
-
-## References
-It was utilized chatGPT to find methods that is used for certain purposes.
