@@ -16,3 +16,6 @@ The game ends if the player makes a wrong attempt.
 There are two buttons "Start Game" and "Restart".
 The player click "Start Game" button to start the game.
 The player click "Restart" button to return back the original position of the letters.
+
+# Here the link for the game: 
+https://itu-itis.github.io/git-fundamentals-itu-itis23-gulsena22/Term_Project/game.html
